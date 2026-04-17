@@ -1,0 +1,16 @@
+/* Elemento Fijo en la Parte Superior de la Pantalla */
+.menu {
+  position: sticky;
+  top: 0px;
+  background-color: #f3f3f3eb;
+  padding: 2rem 0;
+}
+main {
+  width: 800px;
+  margin: 2rem auto;
+}
+ul {
+  display: flex;
+  gap: 3rem;
+  justify-content: center;
+}
